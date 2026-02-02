@@ -20,4 +20,10 @@ A clean and responsive weather app built using HTML, CSS, and JavaScript that fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/anjalitalan/Weather-Forecasting-System.git
+   ```
+2. Open `index.html` in your browser or run a static server (e.g., Live Server extension for VS Code).
+
+ 🔗 Live Demo
+- View the deployed app on GitHub Pages: https://anjalitalan.github.io/Weather-Forecasting-System/
+
 ---
