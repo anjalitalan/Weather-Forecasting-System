@@ -20,3 +20,4 @@ A clean and responsive weather app built using HTML, CSS, and JavaScript that fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/anjalitalan/Weather-Forecasting-System.git
+---
